@@ -1,5 +1,5 @@
 ## Hi my name is KobraSaat 🐉
-Cybersecurity Enthusiast | Networking expert, Always learning and exploring. 👾
+Cybersecurity Enthusiast | Networking expert | Always learning and exploring. 👾
 
 <!--
 **KobraSaat/KobraSaat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
